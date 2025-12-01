@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "[MV] MAMAMOO(마마무) _ Egotistic(너나 해) Japanese Version",
+  "base_artist": "K-pop World & Asian Stars",
+  "createdAt": "2025-12-01T05:39:07.870308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ethereal Sakura ft Yameii (MV)",
+      "artist": "Deko",
+      "has_synced": true,
+      "path": "select/01_Ethereal_Sakura_ft_Yameii_(MV)_Deko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crappy Fantasy Days - MV edit",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/02_Crappy_Fantasy_Days_-_MV_edit_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Matsuri, Hey Come On! - MV edit",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/03_It's_Matsuri,_Hey_Come_On!_-_MV_edit_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tonchinkan Feast - MV edit",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/04_Tonchinkan_Feast_-_MV_edit_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "當你孤單你會想起誰 - MV Version",
+      "artist": "張棟樑",
+      "has_synced": false,
+      "path": "select/05_當你孤單你會想起誰_-_MV_Version_張棟樑.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "當你孤單你會想起誰 (Mv Version)",
+      "artist": "張棟樑",
+      "has_synced": false,
+      "path": "select/06_當你孤單你會想起誰_(Mv_Version)_張棟樑.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like This Like That (feat. Yung Snapp & MV Killa)",
+      "artist": "MadMan feat. Yung Snapp & MV Killa",
+      "has_synced": true,
+      "path": "select/07_Like_This_Like_That_(feat._Yung_Snapp_&_MV_Killa)_MadMan_feat._Yung_Snapp_&_MV_Killa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白銀 - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_白銀_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Greenlights Serenade - MV ver.",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/09_Greenlights_Serenade_-_MV_ver._Omoi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Steal You (Mv Ver.)",
+      "artist": "Omoi",
+      "has_synced": false,
+      "path": "select/10_Steal_You_(Mv_Ver.)_Omoi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ATM (feat. MV Killa)",
+      "artist": "Yung Snapp feat. MV Killa",
+      "has_synced": false,
+      "path": "select/11_ATM_(feat._MV_Killa)_Yung_Snapp_feat._MV_Killa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ATM (feat. MV Killa)",
+      "artist": "Yung Snapp",
+      "has_synced": false,
+      "path": "select/12_ATM_(feat._MV_Killa)_Yung_Snapp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Babyma (feat. MV Killa)",
+      "artist": "Guè feat. Dj Harsh & MV Killa",
+      "has_synced": true,
+      "path": "select/13_Babyma_(feat._MV_Killa)_Guè_feat._Dj_Harsh_&_MV_Killa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fa' o' Brav' (feat. Emis Killa, Yung Snapp, MV Killa, Lele Blade)",
+      "artist": "Rocco Hunt feat. Emis Killa, Yung Snapp, MV Killa & Lele Blade",
+      "has_synced": true,
+      "path": "select/14_Fa'_o'_Brav'_(feat._Emis_Killa,_Yung_Snapp,_MV_Killa,_Lele_Blade)_Rocco_Hunt_feat._Emis_Killa,_Yung_Snapp,_MV_Killa_&_Lele_Blade.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toi & moi (feat. MV)",
+      "artist": "Sneazzy",
+      "has_synced": true,
+      "path": "select/15_Toi_&_moi_(feat._MV)_Sneazzy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Amo Ma Chi T Sap (feat. MV Killa & Guè)",
+      "artist": "Geolier feat. MV Killa & Guè",
+      "has_synced": true,
+      "path": "select/16_Amo_Ma_Chi_T_Sap_(feat._MV_Killa_&_Guè)_Geolier_feat._MV_Killa_&_Guè.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pequenas Empresas (feat. Don Pixote & Mv Bill)",
+      "artist": "Emicida",
+      "has_synced": true,
+      "path": "select/17_Pequenas_Empresas_(feat._Don_Pixote_&_Mv_Bill)_Emicida.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "你瞞我瞞 (Official MV)",
+      "artist": "Jason Chan",
+      "has_synced": true,
+      "path": "select/18_你瞞我瞞_(Official_MV)_Jason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "【imase】NIGHT DANCER（MV）",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/19_【imase】NIGHT_DANCER(MV)_imase.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Oak Soe Khant - All About Love  (Official MV)",
+      "artist": "Oak Soe Khant",
+      "has_synced": true,
+      "path": "select/20_Oak_Soe_Khant_-_All_About_Love_(Official_MV)_Oak_Soe_Khant.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MV『快晴』Orangestar feat.IA",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_MV『快晴』Orangestar_feat.IA_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "MVP",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_02_MVP_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Mvsevm",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_03_Mvsevm_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "MVP",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_04_MVP_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MVSK",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_05_MVSK_Orangestar.txt"
+    }
+  ]
+}
